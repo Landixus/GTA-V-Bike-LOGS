@@ -1,0 +1,42 @@
+// GTA V SCRIPT HOOK (build May 26 2020, v1.0.1868.4)
+//     (C) Alexander Blade 2015-2020
+[07:50:51] INIT: Started
+[07:50:51] INIT: Success, game version is VER_1_0_1868_1_NOSTEAM
+[07:50:51] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FF944741480)
+[07:50:51] INIT: Registering script 'TrainerV.asi' (0x00007FF911DE5AF0)
+[07:50:55] INIT: Pool 1 extended
+[07:50:55] INIT: Pool 2 extended
+[07:50:55] INIT: Pool 3 extended
+[07:50:55] INIT: Pool 4 extended
+[07:51:01] INIT: GtaThread collection size 189
+[07:51:01] INIT: wnd proc 0x00000000FFFF04FD
+[07:51:01] INIT: IDXGISwapChain 0x00007FF96FC03E68 (0x00007FF96FB74670)
+[07:51:01] INIT: IDXGISwapChain set
+[07:51:01] INIT: DX init started
+[07:51:01] INIT: DX feature level B000
+[07:51:01] INIT: DX init succeeded
+[07:51:53] CORE: Requesting thread creation
+[07:51:53] CORE: Creating threads
+[07:51:54] CORE: Started control thread, id 31 active 1
+[07:51:54] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FF944741480), id 32 active 1
+[07:51:54] CORE: Started thread 'TrainerV.asi' (0x00007FF911DE5AF0), id 33 active 1
+[07:51:54] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FF944741480), id 32
+[07:51:54] CORE: Launching main() for 'TrainerV.asi' (0x00007FF911DE5AF0), id 33
+[07:52:11] CORE: Creating texture 'Scripts\mod_textures\MKNL_HUD_metric.png', id 0
+[07:52:11] CORE: Creating texture 'Scripts\mod_textures\0-big.png', id 1
+[07:52:11] CORE: Creating texture 'Scripts\mod_textures\dot-big.png', id 2
+[07:52:11] CORE: Creating texture 'Scripts\mod_textures\semicol-big.png', id 3
+[07:52:11] CORE: Creating texture 'Scripts\mod_textures\wind_arrow.png', id 4
+[07:52:11] CORE: Creating texture 'Scripts\mod_textures\virtual_speed.png', id 5
+[07:52:11] CORE: Creating texture 'Scripts\mod_textures\1-big.png', id 6
+[07:52:15] CORE: Creating texture 'Scripts\mod_textures\4-big.png', id 7
+[07:52:15] CORE: Creating texture 'Scripts\mod_textures\2-big.png', id 8
+[07:52:15] CORE: Creating texture 'Scripts\mod_textures\slope_arrow.png', id 9
+[07:52:15] CORE: Creating texture 'Scripts\mod_textures\7-big.png', id 10
+[07:52:15] CORE: Creating texture 'Scripts\mod_textures\5-big.png', id 11
+[07:52:16] CORE: Creating texture 'Scripts\mod_textures\6-big.png', id 12
+[07:52:18] CORE: Creating texture 'Scripts\mod_textures\8-big.png', id 13
+[07:52:19] CORE: Creating texture 'Scripts\mod_textures\9-big.png', id 14
+[07:52:24] CORE: Creating texture 'Scripts\mod_textures\3-big.png', id 15
+[08:25:08] UNINIT: Unregistering script 'TrainerV.asi'
+[08:25:08] UNINIT: Unregistering script 'ScriptHookVDotNet.asi'
